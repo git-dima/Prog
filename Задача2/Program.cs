@@ -21,4 +21,3 @@ else
 {
     Console.Write("max = " + b);
 }
-
